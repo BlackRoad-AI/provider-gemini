@@ -1,0 +1,18 @@
+{
+  "provider_id": "gemini",
+  "name": "Google Gemini",
+  "primary_model": "gemini-2",
+  "models": [
+    "gemini-2.0-flash",
+    "gemini-1.5-pro",
+    "gemini-1.5-flash"
+  ],
+  "active": true,
+  "in_use_by": [],
+  "usage_stats": {
+    "requests": 0,
+    "tokens": 0,
+    "errors": 0
+  },
+  "created_at": "2026-04-09T04:34:31.729596Z"
+}
